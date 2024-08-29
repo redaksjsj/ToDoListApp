@@ -2,7 +2,7 @@
 
 **Description :**
 
-To-Do List App est une application web légère et conviviale, créée par Saadani Ahmed-Reda, conçue pour gérer efficacement tes tâches quotidiennes. Avec cette application, tu peux ajouter de nouvelles tâches, les marquer comme complètes, les filtrer selon leur statut et les supprimer lorsque tu n'en as plus besoin. L'application prend également en charge les dates d'échéance et les niveaux de priorité pour t'aider à rester organisé et à respecter tes échéances.
+To-Do List App est une application web légère et conviviale, créée par Ahmed-Reda Saadani, conçue pour gérer efficacement tes tâches quotidiennes. Avec cette application, tu peux ajouter de nouvelles tâches, les marquer comme complètes, les filtrer selon leur statut et les supprimer lorsque tu n'en as plus besoin. L'application prend également en charge les dates d'échéance et les niveaux de priorité pour t'aider à rester organisé et à respecter tes échéances.
 
 ## Fonctionnalités
 
